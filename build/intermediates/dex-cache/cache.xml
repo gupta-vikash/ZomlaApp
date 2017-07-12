@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vikashg/Desktop/AndroidCodes/ZomLaApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5baff041294b801749e7895474d84d99a7f8547">
+        <dex dex="/Users/vikashg/Desktop/AndroidCodes/ZomLaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a3fa9407ff63f5d71c46714fc874c376086532a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikashg/.android/build-cache/fa6443cd49353fdd44c265753ac4f90ba8bdd0d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8dc46a8903beb5932a24fbd6a443521cc8574bb">
+        <dex dex="/Users/vikashg/Desktop/AndroidCodes/ZomLaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82c498cf861808dbaad14f35eef6a1cc7e9488ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikashg/Desktop/AndroidCodes/ZomLaApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/vikashg/Desktop/AndroidCodes/ZomLaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0910b3f5171564ca8f773e69701e221573c9237/classes.dex" />
+    </item>
+
+</items>

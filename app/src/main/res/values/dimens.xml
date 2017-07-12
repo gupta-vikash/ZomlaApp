@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardViewPadding">5dp</dimen>
+    <dimen name="recyclerViewPadding">10dp</dimen>
+
+    <!-- restaurant card values -->
+    <dimen name="restaurant_card_padding_common">5dp</dimen>
+    <dimen name="expandableListPreferredItemPaddingLeft">20dp</dimen>
+
+    <!-- common paddings -->
+    <dimen name="dp15">15dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="sp25">25sp</dimen>
+
+</resources>

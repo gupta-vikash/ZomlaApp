@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZomLa</string>
+    <string name="search_title">Search Restaurants</string>
+    <string name="title_activity_sample">SampleActivity</string>
+    <string name="search_hint">Keywords</string>
+    <string name="restaurant_thumb">Restaurant Thumb</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="cuisine_name">Cuisine Name</string>
+    <string name="rating">rating</string>
+    <string name="average_cost_for_two">Average Cost for two :</string>
+    <string name="cost">cost for two</string>
+    <string name="address">Address</string>
+    <string name="no_data_to_be_shown_please_search">No data to be shown.\nPlease search keywords.</string>
+</resources>
